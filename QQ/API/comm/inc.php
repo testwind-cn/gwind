@@ -1,0 +1,1 @@
+{"appid":"101202668","appkey":"5b9664fad388a73cc8ba1745d1e05ee1","callback":"http://togo.sinaapp.com/QQ/main.php","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test","display":"mobile"}

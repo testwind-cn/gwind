@@ -1,5 +1,5 @@
-.idea
-.settings
-.buildpath
-.project
-venv
+.idea/
+.settings/
+.buildpath/
+.project/
+venv/

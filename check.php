@@ -11,7 +11,7 @@
 // bool trigger_error ( string $error_msg [, int $error_type = E_USER_NOTICE ] )
 
 require_once './wxmenu/sql.func.php';
-//引入记录消息的函数文件
+//引入记录消息的函数文件1
 require_once './wxmenu/record_message.func.inc.php';
 
 
